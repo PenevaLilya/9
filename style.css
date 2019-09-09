@@ -34,7 +34,6 @@ body{
     position: absolute;
     right: -27px;
     display: none;
-    z-index: 1;
 }
 .expand{
     position: relative;
